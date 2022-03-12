@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Kelly-title"  src="https://github.com/Kellycns/Kellycns/blob/main/github-header-image.png">
+  <img alt="Kelly-title" src="https://github.com/Kellycns/Kellycns/blob/main/img/github-header-image-kelly.png">
 </div>
 
 ##
@@ -15,7 +15,7 @@
   <img align="center" alt="Kelly-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Kelly-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
   <img align="center" alt="Kelly-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="right" alt="Kelly-pic" height="150" style="border-radius:50px;" src="https://github.com/Kellycns/Kellycns/blob/main/KellyAvatar.png">
+  <img align="right" alt="Kelly-pic" height="150" style="border-radius:50px;" src="https://github.com/Kellycns/Kellycns/blob/main/img/KellyAvatar.png">
 </div>
   
   ##
