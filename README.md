@@ -1,4 +1,6 @@
-### Olá! Eu sou Kelly Santos, estudante de Desenvolvimento Full Stack.
+<div align="center">
+  <img alt="Kelly-title"  src="https://github.com/Kellycns/Kellycns/blob/main/github-header-image.png">
+</div>
 
 ##
 <div align="center">
