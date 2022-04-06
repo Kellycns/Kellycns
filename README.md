@@ -1,14 +1,11 @@
-<div align="center">
-  <img alt="Kelly-title" src="https://github.com/Kellycns/Kellycns/blob/main/img/github-header-image-kelly.png">
-</div>
+## Olá, eu sou a Kelly Santos!
 
-##
 <div align="center">
   <a href="https://github.com/kellycns">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=kellycns&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kellycns&layout=compact&langs_count=7&theme=react"/>
     
-### <p align="left">No momento estou aprendendo</p>
+### <p align="left">No momento estou estudando</p>
     
 </div>
   <div style="display: inline_block"><br>
