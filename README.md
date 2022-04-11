@@ -1,4 +1,4 @@
-## Olá, eu sou a Kelly Santos, FullStack Developer Student!
+## Olá, eu sou a Kelly Santos, Full Stack Development Student!
 
 <div align="center">
   <a href="https://github.com/kellycns">
