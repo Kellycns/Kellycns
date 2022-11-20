@@ -14,7 +14,7 @@
 </div>
 <br><br>
 
-😺 [meuPet](https://instagram-v2-psi.vercel.app/meupet)
+😺 [meuPet](https://instagram-v2-psi.vercel.app/meupet) - Rede social para pais de pets
 
 #
 
